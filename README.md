@@ -1,4 +1,5 @@
 # Pronósticos de Series de Tiempos de las Principales Variables de Proceso de un Molino SAG.
+--
 Repositorio con el código desarrollado para realizar predicciones de las variables:
 * Consumo de Energía Específica.
 * Presión de Cojinetes.
