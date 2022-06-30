@@ -5,6 +5,8 @@ Repositorio con el código desarrollado para realizar predicciones de las variab
 * Celda de Carga.
 * Nivel de Presión Sonora: Decibeles.
 
-Como parte del trabajo de tesis de la Maestría en Ciencia de Datos de la Universidad de Sonora.
+El modelamiento basado en datos será desarrollado mediante el uso de algoritmos de Aprendizaje Máquina y/o Aprendizaje Profundo
+
+Este repositorio es parte del trabajo de tesis de la Maestría en Ciencia de Datos de la Universidad de Sonora.
 
 *Autor:  Samuel Cortez*
